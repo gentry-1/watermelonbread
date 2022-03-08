@@ -1,3 +1,4 @@
-i'm @watermelonbread, they/he/she
-+ interested in nlp and chemistry
-+ hs sophomore
+Gentry, any pronouns are okay
++ I work as a software engineer
++ HS sophomore
++ Learning JS right now
